@@ -1,0 +1,28 @@
+#nav-bar-social {
+  padding-left: 11px;
+}
+
+#logo {
+  height: 100%;
+  padding-left: 10%;
+}
+
+#first-school {
+  height: 100%;
+  width: 100%;
+}
+
+#classroom-1 {
+  height: 100%;
+  width: 100%;
+}
+
+.intro-lead-in2 {
+  font-family:"Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-style:italic;
+  font-size:25px;
+  line-height:35px;
+  margin-bottom:25px;
+  color:#FF0000;
+  background-color: #FFFE0D;
+}
